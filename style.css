@@ -3,7 +3,8 @@ table {
     margin: 15px 0;
 }
 
-td, th {
+.coffee {
     border: 1px solid black;
     padding: 5px 10px;
+    font-family: Arial;
 }
